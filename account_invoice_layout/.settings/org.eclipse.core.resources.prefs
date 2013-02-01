@@ -1,0 +1,10 @@
+#Mon Jan 14 15:58:22 WET 2013
+eclipse.preferences.version=1
+encoding//report/__init__.py=utf-8
+encoding//report/invoice_ordervehicule.py=utf-8
+encoding//report/report_account_invoice_layout.py=utf-8
+encoding//report/special_message_invoice.py=utf-8
+encoding//wizard/account_invoice_special_message.py=utf-8
+encoding/__init__.py=utf-8
+encoding/__openerp__.py=utf-8
+encoding/account_invoice_layout.py=utf-8

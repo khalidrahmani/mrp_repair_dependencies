@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <report auto="False" id="report_sale_order" model="sale.order" name="sale.order"
+                rml="sale/report/sale_order.rml" string="Quotation / Order"
+                usage="default"/>
+		
+		<report auto="False" id="report_sale_ordervehicule" model="sale.order" name="sale.ordervehicule"
+                rml="sale/report/sale_ordervehicule.rml" string="Vehicule"/>                
+
+    </data>
+</openerp>
